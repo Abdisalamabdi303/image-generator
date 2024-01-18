@@ -14,6 +14,7 @@ searchForm.addEventListener("submit", async event =>{
     displayError("Please Enter the name of the image you are searching for");
    
 })
+//unsplash
 async function displayImage(){
     
         word = keyword.value;
